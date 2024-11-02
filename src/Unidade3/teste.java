@@ -1,0 +1,1 @@
+package Unidade3;public class teste {    public static void main(String[] args) {        String mensagem = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,";        System.out.println("\nFunc 3 Grau: ");        String Codificada3 = criptografar1Grau.codificar1Grau(mensagem);        System.out.println(Codificada3);       }    }
